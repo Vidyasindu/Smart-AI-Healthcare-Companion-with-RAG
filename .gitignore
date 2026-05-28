@@ -1,0 +1,53 @@
+# Virtual Environments
+
+venv/
+.env/
+myenv/
+env/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# Environment Variables
+
+.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# Mac/Linux
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Hugging Face / Models
+
+*.bin
+*.pt
+*.pth
+
+# Build files
+
+build/
+dist/
+
+# Temporary files
+
+temp/
+tmp/
